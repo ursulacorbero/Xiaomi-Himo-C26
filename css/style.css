@@ -436,7 +436,7 @@ body{
 		flex-wrap: wrap;
 	}
 	.bike__text{
-		max-width: 100%;
+		max-width: 50%;
 	}
 	.bike{
 		padding: 0;
@@ -466,7 +466,10 @@ body{
 		flex-basis: 100%;
 	}
 	.info_column-text1{
-		max-width: 100%;
+		max-width: 60%;
+	}
+	.info_column-text1 span{
+		max-width: 60%;
 	}
 	.info{
 		padding-top: 50px;
@@ -531,8 +534,8 @@ body{
 	}
 	.bike_subtitle{
 		margin: 0 0 30px;
-		font-size: 20px;
-		line-height: 25px;
+		font-size: 18px;
+		line-height: 23px;
 	}
 	.bike__list{
 		flex-wrap: wrap;
